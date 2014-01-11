@@ -1,0 +1,44 @@
+Its Turnbased
+U need Energie to make something
+U need Energie to build something
+
+Turn:
+Placing Energiemarkers
+Aktivating Units
+	- Build
+	- fight
+	- move
+	-reclaim
+	....
+
+Placing Scrap
+gather energie
+
+
+
+
+
+
+Unitstats:
+	Cost:
+	Movment:
+	Hitpoints:
+	Attacks:
+		Laser
+			rangefull
+			rangehalf
+			precision
+			damage lvl
+			damage amount
+		Plasma
+			range
+			precision
+			damage lvl
+			damage amount
+			Splash
+		Rocket
+			rangefull
+			precision
+			damage lvl
+			damage amount
+			damage radius
